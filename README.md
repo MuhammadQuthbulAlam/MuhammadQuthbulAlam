@@ -1,5 +1,3 @@
-### Hi there 👋
-
 # Halo semua! 
 
 Perkenalkan nama saya **Muhammad Quthbul Alam**.<br>
