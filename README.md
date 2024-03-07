@@ -10,7 +10,6 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 <p align="left">
 <a href="https://github.com/MuhammadQuthbulAlam">
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuhammadQuthbulAlam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MuhammadQuthbulAlam&layout=compact&theme=algolia"/>
 </a>
 </p>
 
