@@ -4,8 +4,6 @@ Perkenalkan nama saya **Muhammad Quthbul Alam**.<br>
 
 Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](https://www.linkedin.com/in/muhammad-quthbul-alam-a46933283/)ku ya.
 
-### Tech Stack
-  <a href="#"><img align="left" alt="JavaScript" title="JavaScript" width="21px" src="https://upload.wikimedia.org/wikipedia/commons/9/99/Unofficial_JavaScript_logo_2.svg" /></a><br>
 
 <p align="left">
 <a href="https://github.com/MuhammadQuthbulAlam">
@@ -16,3 +14,4 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 ## Languages and Tools
 
 <p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,github,css,html,js"> </a> </p>
+
