@@ -13,3 +13,7 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
   <img height="170em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MuhammadQuthbulAlam&layout=compact&theme=algolia"/>
 </a>
 </p>
+
+## Languages and Tools
+
+<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,github,css,html,js"> </a> </p>
