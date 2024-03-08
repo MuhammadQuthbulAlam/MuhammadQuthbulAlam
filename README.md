@@ -13,5 +13,5 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 
 ## Languages and Tools
 
-<p align="left"> <a href="https://github.com/thinkright20"><img src="https://skillicons.dev/icons?i=vscode,github,css,html,js"> </a> </p>
+<p align="left"> <a href="#"><img src="https://skillicons.dev/icons?i=vscode,github,css,html,js"> </a> </p>
 
