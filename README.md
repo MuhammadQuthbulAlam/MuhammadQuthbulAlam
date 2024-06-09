@@ -13,5 +13,5 @@ Jika kamu tertarik untuk berkenalan denganku, silakan ikuti akun [Linkedin](http
 
 ## Languages and Tools
 
-<p align="left"> <a href="#"><img src="https://skillicons.dev/icons?i=vscode,github,css,html,js,python"> </a> </p>
+<p align="left"> <a href="#"><img src="https://skillicons.dev/icons?i=vscode,github,git,css,html,js,php,react,nodejs,vercel,figma"> </a> </p>
 
