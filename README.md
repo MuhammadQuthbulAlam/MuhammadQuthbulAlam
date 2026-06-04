@@ -8,8 +8,6 @@
 <b>// welcome to my profile</b>
 </samp>-->
 
-<br/><br/>
-
 # Muhammad Quthbul Alam
 
 <p>
