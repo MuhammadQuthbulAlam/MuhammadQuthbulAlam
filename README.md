@@ -26,7 +26,7 @@
 
 ---
 
-### ⚡ GitHub Stats
+###  GitHub Stats
 
 <a href="https://github.com/MuhammadQuthbulAlam">
   <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuhammadQuthbulAlam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
@@ -38,7 +38,7 @@
 
 ---
 
-### 🛠️ Languages & Tools
+###  Languages & Tools
 
 <p>
   <img src="https://skillicons.dev/icons?i=vscode,git,dart,kotlin,swift,flutter,python,js,php,react,nodejs,mysql,postgresql,vercel,figma&theme=dark" />
