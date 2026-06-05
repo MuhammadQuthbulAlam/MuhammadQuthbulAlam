@@ -28,15 +28,13 @@
 
 ###  GitHub Stats
 
-<a href="https://github.com/MuhammadQuthbulAlam">
-  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=MuhammadQuthbulAlam&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  &nbsp;
-  <img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MuhammadQuthbulAlam&layout=compact&theme=algolia&langs_count=8"/>
-</a>
 
-<br/><br/>
+<a href="https://github.com/muhammadquthbulalam">
+  <img height="175em" src="https://streak-stats.demolab.com?user=MuhammadQuthbulAlam&hide_border=true&background=0d1b2a&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&currStreakNum=ccd6f6&sideNums=ccd6f6" />
 
 ---
+<img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MuhammadQuthbulAlam&layout=compact&theme=algolia&langs_count=8"/>
+</a>
 
 ###  Languages & Tools
 
