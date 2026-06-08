@@ -1,50 +1,39 @@
 <div align="center">
 
-<!-- Header -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:58a6ff,100:a371f7&height=120&section=header&text=&animation=fadeIn" width="100%"/>
+<br/>
 
-<!-- Greeting -->
-<!--<samp>
-<b>// welcome to my profile</b>
-</samp>-->
+<samp>
 
 # Muhammad Quthbul Alam
 
-<p>
-  <em>Mobile &amp; Web Developer &nbsp;·&nbsp; Flutter &nbsp;·&nbsp; React &nbsp;·&nbsp; Node.js</em>
-</p>
-
-<a href="https://www.linkedin.com/in/muhammad-quthbul-alam-a46933283/">
-  <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-</a>
-&nbsp;
-<a href="https://github.com/MuhammadQuthbulAlam">
-  <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
-</a>
-
-<br/><br/>
-
----
-
-###  GitHub Stats
-
-
-<a href="https://github.com/muhammadquthbulalam">
-  <img height="175em" src="https://streak-stats.demolab.com?user=MuhammadQuthbulAlam&hide_border=true&background=0d1b2a&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&currStreakNum=ccd6f6&sideNums=ccd6f6" />
-
----
-<img height="175em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MuhammadQuthbulAlam&layout=compact&theme=algolia&langs_count=8"/>
-</a>
-
-###  Languages & Tools
-
-<p>
-  <img src="https://skillicons.dev/icons?i=vscode,git,dart,kotlin,swift,flutter,python,js,php,react,nodejs,mysql,postgresql,vercel,figma&theme=dark" />
-</p>
+**Mobile & Web Developer · Flutter · React · Node.js**
 
 <br/>
 
-<!-- Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:a371f7,100:58a6ff&height=80&section=footer" width="100%"/>
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0a1929?style=flat-square&logo=linkedin&logoColor=58b4ff)](https://www.linkedin.com/in/muhammad-quthbul-alam-a46933283/)
+&nbsp;
+[![GitHub](https://img.shields.io/badge/GitHub-161b22?style=flat-square&logo=github&logoColor=c9d1d9)](https://github.com/MuhammadQuthbulAlam)
+
+</samp>
+
+---
+
+### ▸ Stats
+
+<table width="100%"><tr><td align="center" width="50%">
+<img src="https://streak-stats.demolab.com?user=MuhammadQuthbulAlam&hide_border=true&background=0D1321&ring=64ffda&fire=64ffda&currStreakLabel=64ffda&sideLabels=8892b0&dates=8892b0&currStreakNum=e6edf3&sideNums=e6edf3"/>
+</td><td align="center" width="50%">
+<img src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=MuhammadQuthbulAlam&layout=compact&langs_count=8&hide_border=true&bg_color=0D1321&title_color=64ffda&text_color=c9d1d9&icon_color=64ffda"/>
+</td></tr></table>
+
+---
+
+### ▸ Languages & Tools
+
+<img src="https://skillicons.dev/icons?i=vscode,git,dart,flutter,kotlin,swift,js,react,nodejs,php,python,postgresql,mysql,vercel,figma&theme=dark&perline=15"/>
+
+<br/><br/>
+
+<sub><sup>MuhammadQuthbulAlam · README.md</sup></sub>
 
 </div>
